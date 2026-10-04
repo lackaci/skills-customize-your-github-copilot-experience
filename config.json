@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "testing-task-tracking-api",
+      "title": "Testing a Task-Tracking API",
+      "description": "Write a pytest test suite for a FastAPI task-tracking application",
+      "path": "assignments/testing-task-tracking-api",
+      "dueDate": "2026-10-11",
+      "attachments": [
+        {
+          "name": "API Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Starter Code",
+          "file": "test_task_api.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
